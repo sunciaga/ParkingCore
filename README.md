@@ -5,7 +5,7 @@ ParkingCore is the essential backbone for streamlined parking operations. It foc
 
 ---
 
-## 🛠 Core Technical Blueprints
+## 🛠 Core technical blueprints
 
 
 | Module | Description | Status |
