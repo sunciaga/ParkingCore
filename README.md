@@ -1,5 +1,5 @@
 # 💠 ParkingCore Engine
-> **A robust, logic-first parking management engine built in Python.**
+**A robust, logic-first parking management engine built in Python.**
 
 ParkingCore is the essential backbone for streamlined parking operations. It focuses on minimalist architecture, real-time vehicle tracking, automated fare calculation, and high-reliability status monitoring.
 
